@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Awal Umar, a **Back Web Developer** (specializing in **Django**), I am also Pursuing my Master in **Mathematical Application & Engineering** and will graduate in October-2022
+🎓 I am Awal Umar, a **BackEnd Web Developer** (specializing in **Django**), I am also Pursuing my Master in **Mathematical Application & Engineering** and will graduate in October-2022
 
 📚 I also love reading books on **personal development** & **financial literacy**.
 
