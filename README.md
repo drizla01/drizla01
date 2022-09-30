@@ -4,7 +4,7 @@
 
 🎓 I am Awal Umar, a **BackEnd Web Developer** (specializing in **Django**), I am also Pursuing my Master in **Mathematical Application & Engineering** and will graduate in October-2022
 
-📚 I also love reading books on **personal development** & **financial literacy**.
+📚 I also love reading books on **personal development**,**Politics**,**History**,**Sports** & **financial literacy**.
 
  I currently resides in Aveiro, less than 60Km from Porto, Portugal and Open to residing based on the offer.
 
