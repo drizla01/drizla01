@@ -8,7 +8,7 @@
 
  I currently resides in Aveiro, less than 80Km from Porto, Portugal and Open to residing based on the offer.
 
-✈️ I love **traveling** too. I have been on few solo trips to **Most European cities** such as Rome, Istanbul, Lisboa.
+✈️ I love **traveling** too. I have been on few solo trips to some European cities such as Rome, Istanbul and Lisboa.
 
 
 
