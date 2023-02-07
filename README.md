@@ -2,7 +2,12 @@
 
 ## 🚀 About Me
 
-🎓 I am Awal Umar, a **Data Scientist** and  **BackEnd Web Developer** (specializing in **Django**), I am also Pursuing my Master in **Mathematical Application & Engineering** I am also developing my technical skills.
+🎓 I am Awal Umar, a **Data Scientist** and  **BackEnd Web Developer** (specializing in **Django**), with a Master in **Mathematical Application & Engineering** I am also developing my technical skills in other Programming languages such as C, Javascript <br/>
+  My data Analyst stack are <br/>
+    Microsoft PowerBI<br/>
+    SQL<br/>
+    Microsoft Office (  EXCEL, word, Powerpoint)<br/>
+    Tableau<br/>.
 
 📚 I also love reading books on **personal development**,**Politics**,**History**,**Sports** & **financial literacy**.
 
