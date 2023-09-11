@@ -6,7 +6,7 @@
 
   My data Analyst stack are <br/><br/>
     Microsoft PowerBI<br/>
-    SQL, Postgres<br/>
+    MSSQL, Postgres<br/>
     Microsoft Office (  EXCEL, word, Powerpoint)<br/>
     Tableau<br/>.
 
